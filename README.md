@@ -1,8 +1,8 @@
-# 🤖 AI Pioneer Internship | YUVA Intership
+# 🤖 AI Pioneer Internship | YUVA Internship
 
 Hi, I'm **Lahari Kotian**, a B.E. student in Artificial Intelligence and Machine Learning at Sahyadri College of Engineering & Management.
 
-I have been **selected as an AI Pioneer Intern at YUVA Intership**. This repository is where I will document my tasks, projects and learnings during the internship.
+I have been **selected as an AI Pioneer Intern at YUVA Internship**. This repository is where I will document my tasks, projects and learnings during the internship.
 
 > **Status:** Selected. The internship has not been completed yet. Sections marked `TODO` will be filled in as I do the work.
 
