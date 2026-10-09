@@ -26,19 +26,7 @@ I have been **selected as an AI Pioneer Intern at YUVA Internship**. This reposi
 - Improve my problem-solving skills
 - Build practical projects and document them well
 - Learn good habits like using Git and writing clear documentation
-
----
-
-## 🛠️ Skills and Technologies
-
-**Used so far:** `TODO: add after completing real work`
-
-**Planned to learn:** Python, NumPy, Pandas, Matplotlib, scikit-learn, Git and GitHub
-
----
-
-
-
+  
 ## ✅ Learning Progress
 
 - [ ] Set up development environment
