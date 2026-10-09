@@ -46,14 +46,6 @@ I have been **selected as an AI Pioneer Intern at YUVA Internship**. This reposi
 - [ ] Complete first project
 - [ ] Upload work to GitHub
 
----
-
-## 💡 Key Learnings
-
-- `TODO: add real takeaways after completing work`
-
----
-
 ## 📂 Repository Structure
 
 ```text
